@@ -36,7 +36,7 @@ li {
 
 ul li a {
   position: sticky;
-  display: flex;
+  display: block;
   text-decoration: none;
   padding: 20px;
   color: #fff9bb;

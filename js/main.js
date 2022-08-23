@@ -1,8 +1,4 @@
-//
-		// Variables
-		//
-
-		// Get the time right now
+  
 		var now = new Date().getHours();
 
 		/**
